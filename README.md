@@ -29,3 +29,10 @@ The application captures video from a webcam using OpenCV. MediaPipe processes e
 - Real-time image processing
 - OpenCV webcam integration
 - MediaPipe hand landmark detection
+
+## Future Improvements
+
+- Gesture recognition
+- Virtual mouse control
+- Volume control using hand gestures
+- Finger counting system
